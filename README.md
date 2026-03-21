@@ -1,4 +1,4 @@
-# Medical-cost-predication-dashboard
+# Medical-cost-prediction-dashboard
 Medical cost predication analysis
 
 I built and analyzed a Medical Cost Prediction Dashboard to uncover how demographics, diseases, and insurance types drive healthcare costs. Here’s the story the data told me 👇
